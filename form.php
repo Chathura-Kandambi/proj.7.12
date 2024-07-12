@@ -17,7 +17,7 @@
         <input type="text" id="lastname" name="lastname" required><br><br>
         
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
+        <input type="email" id="email" name="email" required><br><br><br>
         
         <input type="submit" value="Submit">
     </form>
